@@ -2,7 +2,7 @@
 
 A one-page portfolio for an architect, a structural engineer or a small design studio. The demo studio, Mara Quell, its buildings, quotes and contacts are fictional.
 
-![Quell](https://raw.githubusercontent.com/formgong/hugo-theme-quell/main/images/screenshot.png)
+![Quell](https://raw.githubusercontent.com/formgong-hq/quell-hugo-theme/main/images/screenshot.png)
 
 Demo: https://quell.formgong.com
 
@@ -18,13 +18,13 @@ hugo mod init example.com/site
 # hugo.toml
 [module]
   [[module.imports]]
-    path = "github.com/formgong-hq/hugo-theme-quell"
+    path = "github.com/formgong-hq/quell-hugo-theme"
 ```
 
 Or as a git submodule:
 
 ```sh
-git submodule add https://github.com/formgong-hq/hugo-theme-quell.git themes/quell
+git submodule add https://github.com/formgong-hq/quell-hugo-theme.git themes/quell
 echo 'theme = "quell"' >> hugo.toml
 ```
 
