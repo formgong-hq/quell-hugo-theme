@@ -1,0 +1,11 @@
+name = "Quell"
+license = "MIT"
+licenselink = "https://github.com/formgong-hq/quell-hugo-theme/blob/main/LICENSE"
+description = "A one-page portfolio for an architect, a structural engineer or a small design studio. The demo studio, Mara Quell, its buildings, quotes and contacts are fictional."
+homepage = "https://github.com/formgong-hq/quell-hugo-theme"
+demosite = "https://quell.formgong.com"
+tags = ["landing","business","portfolio","contact","responsive","dark"]
+
+[author]
+  name = "Formgong"
+  homepage = "https://formgong.com"
