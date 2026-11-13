@@ -34,8 +34,11 @@ Hugo 0.156.0 or newer, no npm packages and no Hugo extended needed. Posts, tags,
 
 ## Run the example site
 
+The folder must be named `quell`, the same as `theme` in `exampleSite/hugo.toml`:
+
 ```sh
-cd exampleSite
+git clone https://github.com/formgong-hq/quell-hugo-theme.git quell
+cd quell/exampleSite
 hugo server --themesDir ../..
 ```
 
